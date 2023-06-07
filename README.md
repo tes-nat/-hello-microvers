@@ -1,9 +1,9 @@
+#Natnael Tesfaye
 Table of Contents
 •	📖 About the Project
 o	🛠 Built With
 	Tech Stack
 	Key Features
-o	🚀 Live Demo
 •	💻 Getting Started
 o	Prerequisites
 o	Setup
@@ -22,9 +22,6 @@ Tech Stack
 - Tools:  Git, GitHub, Linters
 Key Features
 Adding and removing books list
- (back to top)
-🚀 Live Demo
-Add a link to your deployed project.
  (back to top)
 💻 Getting Started
 To get a local copy up and running, follow these steps.
