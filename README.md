@@ -1,4 +1,4 @@
-#Natnael Tesfaye
+#Natnael Hello Microvers project
 Table of Contents
 •	📖 About the Project
 o	🛠 Built With
@@ -11,8 +11,10 @@ o	Install
 o	Usage
 o	Run tests
 o	Deployment
-•	👥 Authors
-•	⭐️ Show your support
+•  👥 Authors
+•  🔭 Future Features
+•  🤝 Contributing
+•  ⭐️ Show your support
 •	🙏 Acknowledgements
 📖 [-HELLO-MICROVERS]
 In this project, I set up a "-hello-microvers" repository. h1 heading text  is in coding for this exercise. The goal here is to master all of the tools and best practices you learned about in how to write code and check errors through linters.
@@ -21,7 +23,10 @@ Tech Stack
 - Programming languages:   HTML, CSS3
 - Tools:  Git, GitHub, Linters
 Key Features
-Adding and removing books list
+[HTML Header Element]
+[CSS Color Property]
+[Git Branch]
+[.gitignore file]
  (back to top)
 💻 Getting Started
 To get a local copy up and running, follow these steps.
@@ -38,7 +43,7 @@ To run the project, execute the following command:
 Run tests
 To run tests, run the following command:
 Deployment
-You can deploy this project using:
+You can deploy this project using:Copying/uploading the project folder's contents to the root of your server.
 (back to top)
 👥 Authors
 Mention all of the collaborators of this project.
@@ -47,6 +52,10 @@ Mention all of the collaborators of this project.
 •	Twitter: @tes_nat23 
 •	LinkedIn: in/natnael-tesfaye-96488a264
  (back to top)
+ 🔭 Future Features
+ Features I will add to the project are currently undecided.
+ 🤝 Contributing
+ Contributions, issues, and feature requests are welcome!
 ⭐️ Show your support
 If you like this project please give a ⭐️ to this repository or if you need comment pls e-mail me.                             (back to top)
 🙏 Acknowledgments
