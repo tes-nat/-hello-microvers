@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portofolio setup and mobile first
+# Hello Microvers project
 
 > This project  creating Github repository, branches and github flows
 > set up a new repository and test linter create two sections of the mobile website using the template 
